@@ -30,8 +30,8 @@ PC with LT Spice software
 ![WhatsApp Image 2025-11-29 at 11 32 06_5d290a78](https://github.com/user-attachments/assets/448aa15d-4989-488a-afb0-4e9334698f1f)
 
 ## OUTPUTS:
-<img width="1920" height="1140" alt="Screenshot 2025-11-26 123047" src="https://github.com/user-attachments/assets/d803db39-0b14-4b26-a90c-b50791a5af1b" />
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/b9e77d43-68a5-417a-8d37-a52101c1aa7c" />
 
 ## RESULT:
-![WhatsApp Image 2025-11-29 at 11 32 06_af5a91a9](https://github.com/user-attachments/assets/eca0c55e-d11e-4e38-aff4-7ad600aca365)
+<img width="1600" height="807" alt="WhatsApp Image 2026-06-10 at 11 07 22 AM" src="https://github.com/user-attachments/assets/db7a177c-5fb8-43a6-bc2a-c92c9588c7ec" />
 
